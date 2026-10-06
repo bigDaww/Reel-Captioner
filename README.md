@@ -1,5 +1,5 @@
 # Reel Captioner
-
+![Demo](demo.gif)
 Auto-generates TikTok/CapCut-style "pop" captions for short video clips, with
 optional automatic jump cuts (dead-air removal).
 
